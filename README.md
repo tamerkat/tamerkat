@@ -29,8 +29,6 @@
 
 - 🏥 **Hospital Management System** – Full-stack web app to manage hospital data, appointments, and blood donations using **MERN**.
 - 🛍️ **E-Commerce Platform** – Clothing store with an **admin panel**, built using React + Vite (admin), and Node.js for the back-end.
-- 🧠 **Visionary** – An AI-powered eye care platform suggesting eyewear based on deep learning and detecting diabetic eye disease.
-
 ---
 
 ## 📢 Let's Connect
