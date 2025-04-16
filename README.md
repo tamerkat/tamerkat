@@ -16,7 +16,7 @@
 
 ## 💼 Technical Skills
 
-- **Languages**: JavaScript, Python, C#, SQL
+- **Languages**: JavaScript, Python, C, C++, SQL
 - **Back-End**: Node.js, Express.js, Flask, Django
 - **Front-End**: React, HTML, CSS, JavaScript
 - **Databases**: MongoDB, MySQL
